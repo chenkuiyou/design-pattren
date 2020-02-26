@@ -24,8 +24,6 @@ public class Main {
         root.add(new TreeNode("结束语"));
         root.print(0);
 
-
-
     }
 }
 abstract  class node<T> {    public abstract void print(int h);  }
