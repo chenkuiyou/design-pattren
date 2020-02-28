@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapt/Adapt.iml" filepath="$PROJECT_DIR$/Adapt/Adapt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain of Responsibility/Chain of Responsibility.iml" filepath="$PROJECT_DIR$/Chain of Responsibility/Chain of Responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlyWeight/FlyWeight.iml" filepath="$PROJECT_DIR$/FlyWeight/FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Propotype/Propotype.iml" filepath="$PROJECT_DIR$/Propotype/Propotype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visitor/Visiter.iml" filepath="$PROJECT_DIR$/Visitor/Visiter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-pattern.iml" filepath="$PROJECT_DIR$/.idea/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memento/memento.iml" filepath="$PROJECT_DIR$/memento/memento.iml" />
     </modules>
   </component>
 </project>
