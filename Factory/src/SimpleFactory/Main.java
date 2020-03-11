@@ -10,7 +10,6 @@ package SimpleFactory;
 public class Main {
     public static void main(String[] args) {
         VehicalFactory f=new VehicalFactory();
-        Vehicle complexBike = f.createComplexBike();
-        Vehicle car = f.createCar();
+        Vehicle car = f.createVehical("Car");
     }
 }
